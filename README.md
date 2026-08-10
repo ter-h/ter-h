@@ -51,4 +51,4 @@ A from-scratch reimplementation of core Git functionality, built as a learning p
 
 [LinkedIn](https://www.linkedin.com/in/terrance-ho-341a443a7/) · [Email](terranceho325@gmail.com)
 
-<p align="center"><i>Open to backend / full-stack developer roles.</i></p>
+<p align="center"><i>Open to backend developer roles.</i></p>
