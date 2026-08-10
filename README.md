@@ -22,7 +22,7 @@ Backend-focused Software Developer | Java · Spring Boot · PostgreSQL
 - 💻 Backend-focused developer, building well-architected personal projects with Java and Spring Boot
 - 🍽️ 4+ years of hospitality experience — brings strong communication, reliability, and composure under pressure to every team
 - 🔭 Currently job hunting for my first developer / IT role
-- 🌱 Learning by building: recently wrote a mini Git clone from scratch to understand content-addressed storage and SHA-1 internals
+- 🌱 Learning by building: check out my mini Git clone below, built to understand content-addressed storage and SHA-1 internals
 
 ---
 
@@ -33,14 +33,10 @@ A REST API for tracking personal finances, built with security and data integrit
 - **Stack:** Spring Boot, JWT authentication, Flyway migrations, Swagger/OpenAPI
 - **Highlights:** Resolved Flyway schema mismatches, untangled Spring Security circular dependencies, and debugged a subtle JWT header bug — the project that anchors my resume.
 
-#### 🏥 [Healthcare Appointment System](https://github.com/your-username/healthcare-appointment-system) — Solo MVP
-A modular monolith for managing healthcare appointments, designed and built solo over a 3-month timeline.
-- **Stack:** Java, PostgreSQL, Docker
-- **Highlights:** Planned end-to-end with a full engineering blueprint before writing code — product requirements, architecture, implementation plan, and scaling considerations.
-
-#### 🤖 [Job Application Assistant](https://github.com/your-username/job-application-assistant)
-A tool to help streamline job applications, built as a learn-while-building project with an eye toward passive income.
-- **Stack:** Spring Boot, Claude API, Stripe
+#### 🔧 [Mini Git Clone](https://github.com/your-username/mini-git) — Git Internals from Scratch
+A from-scratch reimplementation of core Git functionality, built as a learning project to understand what's really happening under the hood.
+- **Stack:** Java
+- **Highlights:** Implemented content-addressed storage, SHA-1 hashing, and the staging area — built through an interactive, paired-coding approach to internalize how Git actually works.
 
 ---
 
