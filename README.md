@@ -28,12 +28,12 @@ Backend-focused Software Developer | Java · Spring Boot · PostgreSQL
 
 ### Featured Projects
 
-#### 🏦 [FinTrack](https://github.com/ter-h/mygit) - Personal Finance REST API
+#### 🏦 [FinTrack](https://github.com/ter-h/fintracker) - Personal Finance REST API
 A REST API for tracking personal finances, built with security and data integrity as first-class concerns.
 - **Stack:** Spring Boot, JWT authentication, Flyway migrations, Swagger/OpenAPI
 - **Highlights:** Resolved Flyway schema mismatches, untangled Spring Security circular dependencies, and debugged a subtle JWT header bug — the project that anchors my resume.
 
-#### 🔧 [Mini Git Clone](https://github.com/ter-h/finTracker) - Git Internals from Scratch
+#### 🔧 [Mini Git Clone](https://github.com/ter-h/mygit) - Git Internals from Scratch
 A from-scratch reimplementation of core Git functionality, built as a learning project to understand what's really happening under the hood.
 - **Stack:** Java
 - **Highlights:** Implemented content-addressed storage, SHA-1 hashing, and the staging area - built through an interactive, paired-coding approach to internalize how Git actually works.
